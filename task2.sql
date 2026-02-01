@@ -1,0 +1,1 @@
+INSERT INTO students_v2 (id, email) VALUES (7, 'noname@example.com');
